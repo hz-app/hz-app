@@ -22,7 +22,7 @@ App.mpType = 'app'
 // 		}
 // 		var currentdate = date.getFullYear() + seperator1 + month + seperator1 +
 // 			strDate;
-// 		return currentdate;
+// 		return currentdate;  
 // 	}
 
 
